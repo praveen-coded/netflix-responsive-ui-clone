@@ -1,0 +1,27 @@
+.card-content {
+    margin-top: 100px;
+}
+
+li {
+    background-color: black;
+}
+
+.btn-outline-danger {
+    color: white;
+    border-color: white;
+    transition: 1s;
+}
+
+.btn-outline-danger:active {
+    background-color: transparent;
+}
+
+.btn-outline-danger:hover {
+    background-color: transparent;
+    border-color: white;
+}
+
+.dropdown-item:hover {
+    background-color: blue;
+    color: white;
+}
